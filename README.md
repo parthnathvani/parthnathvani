@@ -2,7 +2,7 @@
 
 # 👋 Hi, I'm Parth Nathvani
 
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=28&pause=1200&center=true&vCenter=true&width=750&lines=Student+Developer;Web+Development+Learner;Building+Projects+Every+Day;Future+Software+Engineer;Always+Learning+New+Things" />
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=28&pause=1200&center=true&vCenter=true&width=750&lines=Student+Developer;Web+Development+Learner;Building+Projects+Every+Day;Software+Engineer;Always+Learning+New+Things" />
 
 ### Student Developer • Web Development Learner • Tech Enthusiast
 
