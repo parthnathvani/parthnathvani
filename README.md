@@ -1,10 +1,10 @@
 <div align="center">
 
-# 👋 Hey, I'm Parth
+# 👋 Hey, I'm Parth Nathvani
 
-### 🚀 Student • Developer • Tech Enthusiast
+### 🚀 Student • Future Software Developer • Tech Enthusiast
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&center=true&vCenter=true&width=600&lines=Learning+Something+New+Every+Day;Web+Developer+in+Progress;Building+Cool+Projects+%F0%9F%94%A5" />
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=26&pause=1000&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub+Profile!;Learning+and+Building+Every+Day+🚀;Web+Development+%7C+Programming+%7C+Tech" />
 
 </div>
 
@@ -14,69 +14,95 @@
 
 🎓 Student passionate about technology
 
-💻 Currently learning Web Development
+💻 Currently learning Programming & Web Development
 
-🚀 Building projects and improving skills daily
+🚀 Building projects and improving my skills every day
 
-🌱 Exploring new technologies and tools
+🌱 Exploring new technologies and modern development tools
 
-⚡ Fun fact: I turn coffee ☕ into code
+⚡ Goal: Become a skilled Software Developer
 
 ---
 
 ## 🛠️ Tech Stack
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=html,css,js,python,git,github,vscode,bootstrap" />
-</p>
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=html,css,js,python,git,github,vscode" />
+
+</div>
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Statistics
 
-<p align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=parthnathvani&show_icons=true&theme=tokyonight" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=parthnathvani&layout=compact&theme=tokyonight" />
-</p>
+<div align="center">
 
----
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=parthnathvani&show_icons=true&theme=tokyonight&hide_border=true" />
 
-## 🔥 GitHub Streak
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=parthnathvani&layout=compact&theme=tokyonight&hide_border=true" />
 
-<p align="center">
-<img src="https://streak-stats.demolab.com?user=parthnathvani&theme=tokyonight" />
-</p>
+</div>
 
 ---
 
-## 🏆 Achievements
+## 🔥 Contribution Streak
 
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=parthnahvani&theme=tokyonight&row=1&column=6" />
-</p>
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=parthnathvani&theme=tokyonight&hide_border=true" />
+
+</div>
 
 ---
 
-## 📈 Activity Graph
+## 🏆 GitHub Trophies
 
-<p align="center">
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=parthnathvani&theme=tokyonight&no-frame=true&row=1&column=6" />
+
+</div>
+
+---
+
+## 📈 Contribution Graph
+
+<div align="center">
+
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=parthnathvani&theme=tokyo-night" />
-</p>
+
+</div>
+
+---
+
+## 🎯 Current Focus
+
+```text
+✓ Learning Programming
+✓ Building Real Projects
+✓ Improving Problem Solving
+✓ Exploring Open Source
+```
 
 ---
 
 ## 🌐 Connect With Me
 
-<p align="center">
-<a href="https://github.com/YOUR_USERNAME">
+<div align="center">
+
+<a href="https://github.com/parthnathvani">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github">
 </a>
-</p>
+
+</div>
 
 ---
 
 <div align="center">
 
 ### ⭐ Thanks for visiting my profile!
+
+🚀 Keep Learning • Keep Building • Keep Growing
 
 </div>
