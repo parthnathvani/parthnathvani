@@ -1,12 +1,10 @@
 <div align="center">
 
-# 👋 Hey, I'm Parth Nathvani
+# 👋 Hi, I'm Parth Nathvani
 
-### 🚀 Student • Developer • Tech Enthusiast
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=28&pause=1200&center=true&vCenter=true&width=750&lines=Student+Developer;Web+Development+Learner;Building+Projects+Every+Day;Future+Software+Engineer;Always+Learning+New+Things" />
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&pause=1200&color=58A6FF&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub+Profile!;Learning+Programming+Every+Day;Building+Cool+Projects;Future+Software+Developer" alt="Typing SVG" />
-</p>
+### Student Developer • Web Development Learner • Tech Enthusiast
 
 </div>
 
@@ -14,55 +12,79 @@
 
 ## 👨‍💻 About Me
 
-```yaml
-Name: Parth Nathvani
-Role: Student
-Location: India 🇮🇳
-Learning: Web Development
-Focus: Building Projects
-Goal: Become a Software Developer
-```
+I am a passionate student who enjoys building projects, learning modern technologies, and improving problem-solving skills.
+
+I believe in continuous learning, practical experience, and creating meaningful projects through code.
 
 ---
 
-## 🛠 Tech Stack
+## 🚀 Current Focus
+
+- 🌱 Learning Web Development
+- 💡 Building Practical Projects
+- 📚 Improving JavaScript Skills
+- 🔧 Exploring Git & GitHub
+- 🎯 Growing as a Developer
+
+---
+
+## 🛠️ Tech Stack
+
+<table>
+<tr>
+<td align="center">HTML</td>
+<td align="center">CSS</td>
+<td align="center">JavaScript</td>
+<td align="center">Git</td>
+<td align="center">GitHub</td>
+<td align="center">VS Code</td>
+</tr>
+</table>
+
+---
+
+## 📈 Skill Progress
 
 ```text
-HTML         ██████████
-CSS          █████████░
-JavaScript   ███████░░░
-Git          ████████░░
-GitHub       ████████░░
-Python       ██████░░░░
+HTML             ██████████ 90%
+CSS              ████████░░ 80%
+JavaScript       ██████░░░░ 60%
+Git & GitHub     ████████░░ 75%
+Problem Solving  ██████░░░░ 65%
 ```
 
 ---
 
-## 🎯 Current Goals
+## 🎯 Goals
 
-- 🚀 Build amazing projects
-- 📚 Master JavaScript
-- 💻 Learn Full Stack Development
-- 🌟 Contribute to Open Source
-- 🔥 Grow every single day
+- Build high-quality web applications
+- Create a strong developer portfolio
+- Learn advanced JavaScript
+- Contribute to Open Source
+- Become a Software Engineer
 
 ---
 
 ## 📂 Featured Projects
 
-📌 Coming Soon...
+### 🚀 Project One
+Description coming soon...
 
-Working on exciting projects and learning new technologies.
+### 🚀 Project Two
+Description coming soon...
+
+### 🚀 Project Three
+Description coming soon...
 
 ---
 
-## 💭 Developer Mindset
+## 🌟 Philosophy
 
-> "Consistency beats motivation. Small improvements every day create remarkable results."
+> Small improvements every day lead to remarkable results.
 
 ---
 
-## 🌐 Connect
+## 📫 Connect
 
 GitHub: **@parthnathvani**
 
@@ -70,15 +92,6 @@ GitHub: **@parthnathvani**
 
 <div align="center">
 
-### ⭐ Thanks for visiting my profile!
-
-```text
-while(alive){
-    learn();
-    build();
-    improve();
-}
-```
+<img src="https://readme-typing-svg.demolab.com?font=Inter&size=18&pause=1500&center=true&width=500&lines=Thanks+for+visiting+my+profile;Keep+Learning;Keep+Building;Keep+Growing" />
 
 </div>
-
