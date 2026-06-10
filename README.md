@@ -87,7 +87,7 @@ Description coming soon...
 ## 📫 Connect
 
 GitHub: **@parthnathvani**
-
+Instagram:**@parthdevx**
 ---
 
 <div align="center">
